@@ -3,3 +3,6 @@ beta gama delta lilla
 =======
 beta gama delta changes done Changes
 >>>>>>> master
+
+
+after merging testing push command
